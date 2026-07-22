@@ -1,0 +1,4 @@
+﻿Contact name: John Doe
+Email: john.doe@example.com
+Phone: 555-0100
+Address: Hanoi
